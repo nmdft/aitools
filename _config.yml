@@ -1,0 +1,100 @@
+# Hexo Configuration — AITools Review
+## https://hexo.io/docs/configuration.html
+
+# Site
+title: AITools — AI Tools for Solopreneurs
+subtitle: Reviews & Guides for One-Person Businesses
+description: Honest reviews of AI tools for solopreneurs. We test tools so you don't have to.
+keywords: [AI tools, solopreneur, AI reviews, indie maker, one-person business, AI coding, AI marketing, AI automation]
+author: AITools
+language: en
+timezone: Asia/Shanghai
+
+# URL
+url: https://aitools.nmdft.cn
+permalink: :title/
+permalink_defaults:
+pretty_urls:
+  trailing_index: false
+  trailing_html: false
+
+# Directory
+source_dir: source
+public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: :lang
+skip_render:
+
+# Writing
+new_post_name: :title.md
+default_layout: post
+titlecase: false
+external_link:
+  enable: true
+  field: site
+  exclude: ''
+filename_case: 0
+render_drafts: false
+post_asset_folder: true
+relative_link: false
+future: true
+syntax_highlighter: highlight.js
+highlight:
+  line_number: true
+  auto_detect: false
+  tab_replace: ''
+  wrap: true
+  hljs: false
+
+# Home page
+index_generator:
+  path: ''
+  per_page: 12
+  order_by: -date
+
+# Category & Tag
+default_category: uncategorized
+category_map:
+  ai-coding: AI Coding
+  ai-marketing: AI Marketing
+  ai-content: AI Content
+  ai-automation: AI Automation
+  ai-analytics: AI Analytics
+  infrastructure: Infrastructure
+tag_map:
+
+# Metadata
+meta_generator: false
+
+# Date / Time
+date_format: YYYY-MM-DD
+time_format: HH:mm:ss
+updated_option: 'mtime'
+
+# Pagination
+per_page: 12
+pagination_dir: page
+
+# Extensions
+theme: fluid
+
+# i18n plugin config
+i18n:
+  type: [page, post]
+
+# Sitemap
+sitemap:
+  path: sitemap.xml
+
+# Feed (RSS)
+feed:
+  type: [atom, rss2]
+  path: [atom.xml, rss2.xml]
+  limit: 20
+
+# Deployment
+deploy:
+  type: ''

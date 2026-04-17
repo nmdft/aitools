@@ -1,0 +1,174 @@
+#---------------------------
+# Hexo Theme Fluid - AITools Review
+#---------------------------
+
+# Global
+favicon: /img/favicon.png
+apple_touch_icon: /img/favicon.png
+tab_title_separator: " — "
+force_https: true
+
+# Code blocks
+code:
+  copy_btn: true
+  language:
+    enable: true
+    default: "TEXT"
+  highlight:
+    enable: true
+    line_number: false
+    lib: "highlightjs"
+    highlightjs:
+      style: "github"
+      style_dark: "dark"
+
+# Navbar
+navbar:
+  blog_title: "AITools"
+  ground_glass:
+    enable: false
+  menu:
+    - key: "Home"
+      link: "/"
+      icon: "iconfont icon-home-fill"
+    - key: "Categories"
+      link: "/categories/"
+      icon: "iconfont icon-category-fill"
+    - key: "English"
+      link: "/en/"
+      icon: "iconfont icon-english-fill"
+    - key: "中文"
+      link: "/zh/"
+      icon: "iconfont icon-chinese-fill"
+
+# Index page
+index:
+  banner_img: /img/banner.jpg
+  banner_img_height: 45
+  banner_mask_alpha: 0.2
+  slogan:
+    enable: true
+    text:
+      - "Honest AI Tool Reviews for Solopreneurs"
+      - "We test tools so you don't waste time and money"
+      - "Real experience, no sponsored fluff"
+  auto_excerpt:
+    enable: true
+  post_url_target: "_self"
+  post_meta:
+    date: true
+    category: true
+    tag: true
+
+# Post page
+post:
+  banner_img: /img/banner.jpg
+  banner_img_height: 40
+  banner_mask_alpha: 0.2
+  default_index_img: /img/banner.jpg
+  meta:
+    author:
+      enable: true
+    date:
+      enable: true
+      format: "LL"
+    wordcount:
+      enable: true
+    min2read:
+      enable: true
+      awl: 6
+      wpm: 250
+  updated:
+    enable: false
+  category_bar:
+    enable: true
+    specific: true
+    placement: "left"
+    post_order_by: "title"
+    post_limit: 0
+  toc:
+    enable: true
+    placement: "right"
+  copyright:
+    enable: true
+    length: 120
+    license: "CC BY-NC-SA 4.0"
+    license_url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+
+# Category page
+category:
+  enable: true
+  banner_img: /img/banner.jpg
+  banner_img_height: 50
+  banner_mask_alpha: 0.2
+  order_by: "-length"
+  collapse_depth: 0
+  post_order_by: "-date"
+  post_limit: 10
+
+# Tag page
+tag:
+  enable: true
+  banner_img: /img/banner.jpg
+  banner_img_height: 50
+  banner_mask_alpha: 0.2
+  tagcloud:
+    min_font: 14
+    max_font: 24
+    unit: "px"
+    start_color: "#999"
+    end_color: "#333"
+
+# Archive page
+archive:
+  enable: true
+  banner_img: /img/banner.jpg
+  banner_img_height: 40
+  banner_mask_alpha: 0.2
+
+# About page
+about:
+  enable: false
+
+# Footer
+footer:
+  content: 'Powered by <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> & <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>'
+  statistics:
+    enable: false
+  beian:
+    enable: false
+
+# SEO
+seo:
+  site_verification:
+    google: ""
+    bing: ""
+  canonical_link: true
+
+# Search
+search:
+  enable: true
+  path: local-search.xml
+  field: post
+  top_n_per_article: 1
+  unescape: false
+
+# Dark mode
+color_scheme:
+  enable: true
+  default: "light"
+
+# Pjax
+pjax:
+  enable: true
+
+# Image viewer
+image_viewer:
+  enable: true
+
+# Anchor
+anchor:
+  enable: true
+  selector: "h1,h2,h3"
+  placement: "left"
+  visible: "hover"

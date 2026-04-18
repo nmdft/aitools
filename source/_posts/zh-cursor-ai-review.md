@@ -1,6 +1,6 @@
 ---
 title: "Cursor AI 评测：从 VS Code 切换过来值不值？"
-date: 2026-04-18 10:00:00
+date: 2026-04-15 10:00:00
 categories:
   - AI Coding
 description: Cursor AI 编辑器真实使用体验评测，面向独立开发者和一人公司。
@@ -14,6 +14,8 @@ permalink: zh/cursor-ai-review/
 **一句话结论：** 目前最好的 AI 原生代码编辑器，但不是免费的，上手也需要时间。
 
 ## Cursor 是什么？
+
+![Cursor AI Homepage](/images/cursor-homepage.png)
 
 Cursor 是基于 VS Code 分叉出来的代码编辑器，把 AI 深度整合到了编辑体验里。跟 GitHub Copilot 不一样——Copilot 是在你现有的编辑器上"加了个插件"，Cursor 是从头开始就把 AI 当成核心功能来设计的。
 

@@ -1,6 +1,6 @@
 ---
 title: "Bolt.new 评测：用描述来构建 Web 应用"
-date: 2026-04-18 16:00:00
+date: 2026-04-17 10:00:00
 categories:
   - AI Coding
 description: Bolt.new 让你通过和 AI 对话来构建全栈 Web 应用。我们测试了它是否真的能用于生产项目。

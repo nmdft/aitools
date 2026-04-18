@@ -1,6 +1,6 @@
 ---
 title: "Windsurf Review: The $10/mo Cursor Killer?"
-date: 2026-04-18 14:00:00
+date: 2026-04-16 10:00:00
 categories:
   - AI Coding
 description: Windsurf by Codeium offers deep AI integration at half the price of Cursor. We tested it for a week building a real project. Here's what happened.

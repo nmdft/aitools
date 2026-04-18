@@ -34,6 +34,9 @@ navbar:
     - key: "Categories"
       link: "/categories/"
       icon: "iconfont icon-category-fill"
+    - key: "About"
+      link: "/about/"
+      icon: "iconfont icon-info-circle-fill"
     - key: "English"
       link: "/en/"
       icon: "iconfont icon-english-fill"
@@ -132,9 +135,12 @@ about:
 
 # Footer
 footer:
-  content: 'Powered by <a href="https://hexo.io" target="_blank" rel="nofollow noopener"><span>Hexo</span></a> & <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener"><span>Fluid</span></a>'
+  content: '&copy; 2026 <a href="/" target="_self"><b>AITools</b></a> — Honest AI Tool Reviews for Solopreneurs. Built with <a href="https://hexo.io" target="_blank" rel="nofollow noopener">Hexo</a> & <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener">Fluid</a>.'
   statistics:
-    enable: false
+    enable: true
+    source: busuanzi
+    pv_format: "Total PV: {}"
+    uv_format: "Total UV: {}"
   beian:
     enable: false
 

@@ -1,6 +1,6 @@
 ---
 title: "Cursor AI Review: Is It Worth Switching From VS Code?"
-date: 2026-04-18 10:00:00
+date: 2026-04-15 10:00:00
 categories:
   - AI Coding
 description: An honest review of Cursor AI editor for solopreneur developers. We tested it for two weeks building real projects.
@@ -14,6 +14,8 @@ permalink: en/cursor-ai-review/
 **Quick Verdict:** Cursor is the best AI-native code editor right now, but it's not free and the learning curve is real.
 
 ## What is Cursor?
+
+![Cursor AI Homepage](/images/cursor-homepage.png)
 
 Cursor is a code editor forked from VS Code with AI deeply integrated into the editing experience. Unlike GitHub Copilot which bolts suggestions onto your existing editor, Cursor was built from the ground up with AI as a first-class citizen.
 

@@ -1,6 +1,6 @@
 ---
 title: "Windsurf 评测：10美元一个月的 Cursor 杀手？"
-date: 2026-04-18 14:00:00
+date: 2026-04-16 10:00:00
 categories:
   - AI Coding
 description: Codeium 的 Windsurf 以 Cursor 一半的价格提供深度 AI 集成。我们用它做了一个真实项目的一周测试，以下是结果。

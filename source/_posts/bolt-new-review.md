@@ -1,6 +1,6 @@
 ---
 title: "Bolt.new Review: Build Web Apps by Describing Them"
-date: 2026-04-18 16:00:00
+date: 2026-04-17 10:00:00
 categories:
   - AI Coding
 description: Bolt.new lets you build full-stack web apps by chatting with AI. We tested it to see if it's actually viable for production projects.

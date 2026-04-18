@@ -48,6 +48,8 @@ The autocomplete is solid too. It's powered by Codeium's own models and handles 
 
 ## Pricing
 
+![Windsurf Pricing](/images/windsurf-pricing.png)
+
 | Plan | Price | What You Get |
 |------|-------|-------------|
 | Free | $0 | Cascade + autocomplete with limits |

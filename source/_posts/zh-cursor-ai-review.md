@@ -46,6 +46,8 @@ Cursor 是基于 VS Code 分叉出来的代码编辑器，把 AI 深度整合到
 
 ## 定价
 
+![Cursor AI 定价](/images/cursor-pricing.png)
+
 | 套餐 | 价格 | 内容 |
 |------|------|------|
 | Hobby | 免费 | 2000 次补全，50 次高级请求 |

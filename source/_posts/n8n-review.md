@@ -51,6 +51,8 @@ The visual editor is intuitive. You drag nodes, connect them, configure each ste
 
 ## Pricing
 
+![n8n Pricing](/images/n8n-pricing.png)
+
 | Option | Price | What You Get |
 |--------|-------|-------------|
 | Self-hosted | $0 (just server cost) | Unlimited everything |

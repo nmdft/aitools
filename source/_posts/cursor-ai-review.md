@@ -46,6 +46,8 @@ The chat sidebar (`Cmd+L`) was useful for asking questions about unfamiliar code
 
 ## Pricing
 
+![Cursor AI Pricing](/images/cursor-pricing.png)
+
 | Plan | Price | What You Get |
 |------|-------|-------------|
 | Hobby | Free | 2000 completions, 50 premium requests |

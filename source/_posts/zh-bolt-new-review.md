@@ -4,6 +4,7 @@ date: 2026-04-17 10:00:00
 categories:
   - AI Coding
 description: Bolt.new 让你通过和 AI 对话来构建全栈 Web 应用。我们测试了它是否真的能用于生产项目。
+keywords: [Bolt.new, AI应用构建器, StackBlitz, Web应用, 原型开发, 无代码, MVP, 一人公司]
 lang: zh
 permalink: zh/bolt-new-review/
 ---
@@ -11,6 +12,8 @@ permalink: zh/bolt-new-review/
 # Bolt.new 评测：用描述来构建 Web 应用
 
 **一句话评价：** Bolt.new 是从想法到可运行原型的最快方式。但别指望它产出生产级代码。
+
+🔗 官网：[Bolt.new](https://bolt.new)
 
 ![Bolt.new 官网](/images/bolt-new-homepage.png)
 

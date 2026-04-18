@@ -4,6 +4,7 @@ date: 2026-04-15 10:00:00
 categories:
   - AI Coding
 description: An honest review of Cursor AI editor for solopreneur developers. We tested it for two weeks building real projects.
+keywords: [Cursor AI, code editor, AI coding, VS Code, GitHub Copilot alternative, pair programming, solopreneur]
 lang: en
 permalink: en/cursor-ai-review/
 
@@ -12,6 +13,8 @@ permalink: en/cursor-ai-review/
 # Cursor AI Review: Is It Worth Switching From VS Code?
 
 **Quick Verdict:** Cursor is the best AI-native code editor right now, but it's not free and the learning curve is real.
+
+🔗 Official site: [Cursor AI](https://cursor.com)
 
 ## What is Cursor?
 

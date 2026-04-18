@@ -4,6 +4,7 @@ date: 2026-04-15 10:00:00
 categories:
   - AI Coding
 description: Cursor AI 编辑器真实使用体验评测，面向独立开发者和一人公司。
+keywords: [Cursor AI, 代码编辑器, AI编程, VS Code, GitHub Copilot替代, 结对编程, 一人公司]
 lang: zh
 permalink: zh/cursor-ai-review/
 
@@ -12,6 +13,8 @@ permalink: zh/cursor-ai-review/
 # Cursor AI 评测：从 VS Code 切换过来值不值？
 
 **一句话结论：** 目前最好的 AI 原生代码编辑器，但不是免费的，上手也需要时间。
+
+🔗 官网：[Cursor AI](https://cursor.com)
 
 ## Cursor 是什么？
 

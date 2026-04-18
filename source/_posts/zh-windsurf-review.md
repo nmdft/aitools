@@ -4,6 +4,7 @@ date: 2026-04-16 10:00:00
 categories:
   - AI Coding
 description: Codeium 的 Windsurf 以 Cursor 一半的价格提供深度 AI 集成。我们用它做了一个真实项目的一周测试，以下是结果。
+keywords: [Windsurf, Codeium, AI编程IDE, Cascade, Cursor替代, 智能体编程, 一人公司]
 lang: zh
 permalink: zh/windsurf-review/
 ---
@@ -11,6 +12,8 @@ permalink: zh/windsurf-review/
 # Windsurf 评测：10美元一个月的 Cursor 杀手？
 
 **一句话评价：** Windsurf 是目前性价比最高的 AI 编程 IDE，价格只有 Cursor 的一半，某些功能甚至更好。
+
+🔗 官网：[Windsurf](https://windsurf.com)
 
 ![Windsurf 官网](/images/windsurf-homepage.png)
 

@@ -4,6 +4,7 @@ date: 2026-04-18 18:00:00
 categories:
   - AI Automation
 description: n8n 是一个让你连接各种应用、自动化工作流的平台。我们自建部署并为一人公司搭建了真实的自动化流程。
+keywords: [n8n, 工作流自动化, 开源, 自部署, Zapier替代, 无代码, 一人公司]
 lang: zh
 permalink: zh/n8n-review/
 ---
@@ -11,6 +12,8 @@ permalink: zh/n8n-review/
 # n8n 评测：真正能用的开源自动化工具
 
 **一句话评价：** n8n 是能自部署的最好自动化工具，花 Zapier 零头的价格获得同等级的能力。
+
+🔗 官网：[n8n](https://n8n.io)
 
 ![n8n 官网](/images/n8n-homepage.png)
 

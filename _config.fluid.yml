@@ -133,12 +133,21 @@ archive:
 about:
   enable: false
 
+# Web Analytics
+web_analytics:
+  enable: true
+  follow_dnt: true
+  umami:
+    src: https://cloud.umami.is/script.js
+    website_id: 055d8759-ad97-440f-aa15-e6ad288f856f
+    domains: aitools.nmdft.cn
+
 # Footer
 footer:
   content: '&copy; 2026 <a href="/" target="_self"><b>AITools</b></a> — Honest AI Tool Reviews for Solopreneurs. Built with <a href="https://hexo.io" target="_blank" rel="nofollow noopener">Hexo</a> & <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener">Fluid</a>.'
   statistics:
     enable: true
-    source: busuanzi
+    source: umami
     pv_format: "Total PV: {}"
     uv_format: "Total UV: {}"
   beian:

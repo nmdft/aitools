@@ -12,6 +12,8 @@ permalink: zh/windsurf-review/
 
 **一句话评价：** Windsurf 是目前性价比最高的 AI 编程 IDE，价格只有 Cursor 的一半，某些功能甚至更好。
 
+![Windsurf 官网](/images/windsurf-homepage.png)
+
 ## Windsurf 是什么？
 
 Windsurf 是 Codeium（现已更名为 Windsurf）打造的 AI 原生代码编辑器。和 Cursor 一样，它基于 VS Code 分支，把 AI 深度融入编辑体验。但 Windsurf 走了一条不同的路——更"智能体化"，更少依赖逐行补全。

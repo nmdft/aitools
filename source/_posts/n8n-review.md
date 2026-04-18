@@ -12,6 +12,8 @@ permalink: en/n8n-review/
 
 **Quick Verdict:** n8n is the best automation tool for solopreneurs who can self-host. Zapier-level power at a fraction of the cost.
 
+![n8n Homepage](/images/n8n-homepage.png)
+
 ## What is n8n?
 
 n8n is an open-source workflow automation platform. Think Zapier, but you can self-host it for free (or use their cloud offering). It connects to 400+ services and lets you build complex automation workflows visually.

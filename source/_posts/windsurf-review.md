@@ -12,6 +12,8 @@ permalink: en/windsurf-review/
 
 **Quick Verdict:** Windsurf is the most cost-effective AI coding IDE right now. Half the price of Cursor, with some features that are actually better.
 
+![Windsurf Homepage](/images/windsurf-homepage.png)
+
 ## What is Windsurf?
 
 Windsurf is an AI-native code editor built by Codeium (now called Windsurf). Like Cursor, it's forked from VS Code with AI deeply woven into the experience. But Windsurf takes a different approach — it's more "agentic" and less "autocomplete."

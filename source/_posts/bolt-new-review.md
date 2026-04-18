@@ -12,6 +12,8 @@ permalink: en/bolt-new-review/
 
 **Quick Verdict:** Bolt.new is the fastest way to go from idea to working prototype. Just don't expect production-ready code.
 
+![Bolt.new Homepage](/images/bolt-new-homepage.png)
+
 ## What is Bolt.new?
 
 Bolt.new is a browser-based AI app builder by StackBlitz. You describe what you want in plain English, and it generates a full-stack web app — frontend, backend, database, the works. It runs entirely in your browser using WebContainers, so there's nothing to install.

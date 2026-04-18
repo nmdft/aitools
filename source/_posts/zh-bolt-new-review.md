@@ -12,6 +12,8 @@ permalink: zh/bolt-new-review/
 
 **一句话评价：** Bolt.new 是从想法到可运行原型的最快方式。但别指望它产出生产级代码。
 
+![Bolt.new 官网](/images/bolt-new-homepage.png)
+
 ## Bolt.new 是什么？
 
 Bolt.new 是 StackBlitz 出品的浏览器端 AI 应用构建器。用英文描述你想要什么，它就能生成一个全栈 Web 应用——前端、后端、数据库全包。完全在浏览器里通过 WebContainers 运行，不需要安装任何东西。

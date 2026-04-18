@@ -5,6 +5,7 @@ categories:
   - AI Coding
 description: An honest review of Cursor AI editor for solopreneur developers. We tested it for two weeks building real projects.
 lang: en
+permalink: en/cursor-ai-review/
 
 ---
 

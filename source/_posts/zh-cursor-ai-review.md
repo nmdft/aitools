@@ -5,7 +5,7 @@ categories:
   - AI Coding
 description: Cursor AI 编辑器真实使用体验评测，面向独立开发者和一人公司。
 lang: zh
-slug: cursor-ai-review
+permalink: zh/cursor-ai-review/
 
 ---
 

@@ -81,10 +81,6 @@ pagination_dir: page
 # Extensions
 theme: fluid
 
-# i18n plugin config
-i18n:
-  type: [page, post]
-
 # Sitemap
 sitemap:
   path: sitemap.xml

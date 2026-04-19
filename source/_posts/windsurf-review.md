@@ -1,4 +1,6 @@
 ---
+banner_img: /images/windsurf-banner.png
+index_img: /images/windsurf-banner.png
 title: "Windsurf Review: The $10/mo Cursor Killer?"
 date: 2026-04-16 10:00:00
 categories:
@@ -6,7 +8,7 @@ categories:
 description: Windsurf by Codeium offers deep AI integration at half the price of Cursor. We tested it for a week building a real project. Here's what happened.
 keywords: [Windsurf, Codeium, AI coding IDE, Cascade, Cursor alternative, agentic coding, solopreneur]
 lang: en
-permalink: en/windsurf-review/
+permalink: windsurf-review/
 ---
 
 # Windsurf Review: The $10/mo Cursor Killer?

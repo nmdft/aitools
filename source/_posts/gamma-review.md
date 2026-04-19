@@ -1,11 +1,13 @@
 ---
+banner_img: /images/gamma-banner.png
+index_img: /images/gamma-banner.png
 title: "Gamma Review: The AI Design Tool That Wants to Kill PowerPoint"
 date: 2026-04-19 10:00:00
 categories:
   - AI Content
 description: "Gamma.app turns your ideas into polished presentations, websites, and documents with AI. But is it actually good enough to replace your current workflow?"
 lang: en
-permalink: en/gamma-review/
+permalink: gamma-review/
 ---
 
 I'll be honest — when I first heard about Gamma, I rolled my eyes. Another AI tool claiming to "revolutionize" content creation? Sure. But after spending real time with it, I have to admit: this thing is surprisingly capable.

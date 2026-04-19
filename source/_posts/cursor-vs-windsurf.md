@@ -1,11 +1,13 @@
 ---
+banner_img: /images/cursor-banner.png
+index_img: /images/cursor-banner.png
 title: "Cursor vs Windsurf: Which AI Coding Tool Should You Pick in 2026?"
 date: 2026-04-19 12:00:00
 categories:
   - AI Coding
 description: "Cursor vs Windsurf — we tested both for weeks building real projects. Here's an honest comparison of features, pricing, and which one is right for solopreneurs."
 lang: en
-permalink: en/cursor-vs-windsurf/
+permalink: cursor-vs-windsurf/
 ---
 
 If you're a solopreneur building products, you've probably heard the hype around both Cursor and Windsurf. They're the two AI coding tools everyone's talking about. But which one should you actually use?

@@ -37,24 +37,18 @@ navbar:
     - key: "About"
       link: "/about/"
       icon: "iconfont icon-info-circle-fill"
-    - key: "EN"
-      link: "/"
-      icon: "iconfont icon-english-fill"
-    - key: "中文"
-      link: "/zh/"
-      icon: "iconfont icon-chinese-fill"
 
 # Index page
 index:
-  banner_img: /img/banner.jpg
-  banner_img_height: 45
-  banner_mask_alpha: 0.2
+  banner_img: /images/site-banner.png
+  banner_img_height: 55
+  banner_mask_alpha: 0.3
   slogan:
     enable: true
     text:
       - "Honest AI Tool Reviews for Solopreneurs"
-      - "We test tools so you don't waste time and money"
-      - "Real experience, no sponsored fluff"
+      - "We test every tool so you don't waste time and money"
+      - "Real usage. Real results. No sponsored fluff."
   auto_excerpt:
     enable: true
   post_url_target: "_self"
@@ -65,10 +59,10 @@ index:
 
 # Post page
 post:
-  banner_img: /img/banner.jpg
-  banner_img_height: 40
-  banner_mask_alpha: 0.2
-  default_index_img: /img/banner.jpg
+  banner_img: /images/site-banner.png
+  banner_img_height: 45
+  banner_mask_alpha: 0.25
+  default_index_img: /images/site-banner.png
   meta:
     author:
       enable: true
@@ -101,9 +95,9 @@ post:
 # Category page
 category:
   enable: true
-  banner_img: /img/banner.jpg
+  banner_img: /images/site-banner.png
   banner_img_height: 50
-  banner_mask_alpha: 0.2
+  banner_mask_alpha: 0.3
   order_by: "-length"
   collapse_depth: 0
   post_order_by: "-date"

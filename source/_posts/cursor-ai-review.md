@@ -1,4 +1,6 @@
 ---
+banner_img: /images/cursor-banner.png
+index_img: /images/cursor-banner.png
 title: "Cursor AI Review: Is It Worth Switching From VS Code?"
 date: 2026-04-15 10:00:00
 categories:
@@ -6,7 +8,7 @@ categories:
 description: An honest review of Cursor AI editor for solopreneur developers. We tested it for two weeks building real projects.
 keywords: [Cursor AI, code editor, AI coding, VS Code, GitHub Copilot alternative, pair programming, solopreneur]
 lang: en
-permalink: en/cursor-ai-review/
+permalink: cursor-ai-review/
 
 ---
 

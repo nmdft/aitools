@@ -1,4 +1,6 @@
 ---
+banner_img: /images/bolt-new-banner.png
+index_img: /images/bolt-new-banner.png
 title: "Bolt.new Review: Build Web Apps by Describing Them"
 date: 2026-04-17 10:00:00
 categories:
@@ -6,7 +8,7 @@ categories:
 description: Bolt.new lets you build full-stack web apps by chatting with AI. We tested it to see if it's actually viable for production projects.
 keywords: [Bolt.new, AI app builder, StackBlitz, web app, prototyping, no-code, MVP, solopreneur]
 lang: en
-permalink: en/bolt-new-review/
+permalink: bolt-new-review/
 ---
 
 # Bolt.new Review: Build Web Apps by Describing Them

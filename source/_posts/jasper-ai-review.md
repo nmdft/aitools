@@ -1,11 +1,13 @@
 ---
+banner_img: /images/jasper-banner.png
+index_img: /images/jasper-banner.png
 title: "Jasper AI Review: The Enterprise Marketing Machine That's Not for Everyone"
 date: 2026-04-19 16:00:00
 categories:
   - AI Marketing
 description: "Jasper AI promises to put AI agents to work for your entire marketing operation. We tested it to see if it lives up to the hype — and who should actually pay for it."
 lang: en
-permalink: en/jasper-ai-review/
+permalink: jasper-ai-review/
 ---
 
 If you've spent any time in the AI marketing space, you've heard of Jasper. The company that started as a simple "AI writer" has evolved into something much more ambitious — a full-blown agent platform for marketing teams. But ambition and execution are two different things, so I spent real time with Jasper to figure out where it actually delivers and where the marketing gloss outpaces the product.

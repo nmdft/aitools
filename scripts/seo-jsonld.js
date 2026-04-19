@@ -11,7 +11,6 @@ hexo.extend.filter.register('after_generate', function() {
   var siteTitle = hexo.config.title || 'AITools';
   var publicDir = hexo.public_dir.toString().replace(/\/$/, '');
 
-  // Use setTimeout to defer execution until after files are written
   setTimeout(function() {
     var posts = hexo.locals.get('posts');
     var postMap = {};
@@ -38,6 +37,7 @@ hexo.extend.filter.register('after_generate', function() {
     walkDir(publicDir);
 
     var injected = 0;
+
     htmlFiles.forEach(function(filePath) {
       var html;
       try { html = fs.readFileSync(filePath, 'utf8'); } catch(e) { return; }
@@ -45,8 +45,6 @@ hexo.extend.filter.register('after_generate', function() {
 
       var relPath = path.relative(publicDir, filePath).replace(/\\/g, '/');
       var normalizedRel = relPath.replace(/\/index\.html$/, '');
-      var isZh = relPath.indexOf('zh/') === 0;
-      var lang = isZh ? 'zh' : 'en';
 
       var jsonLd = '';
 
@@ -63,13 +61,12 @@ hexo.extend.filter.register('after_generate', function() {
           datePublished: post.date ? post.date.toISOString() : '',
           dateModified: post.updated ? post.updated.toISOString() : (post.date ? post.date.toISOString() : ''),
           url: url,
-          inLanguage: lang
+          inLanguage: 'en'
         };
 
         var content2 = post._content || '';
         var rm = content2.match(/[Rr]ating[:\s]*(\d+(?:\.\d+)?)\s*\/\s*10/);
-        var rc = content2.match(/评分[：:]\s*(\d+(?:\.\d+)?)\s*\/\s*10/);
-        var score = rm ? parseFloat(rm[1]) : (rc ? parseFloat(rc[1]) : null);
+        var score = rm ? parseFloat(rm[1]) : null;
         if (score) {
           articleLd.reviewRating = {
             '@type': 'Rating', ratingValue: score, bestRating: 10, worstRating: 0
@@ -88,21 +85,13 @@ hexo.extend.filter.register('after_generate', function() {
         injected++;
       } else if (relPath === 'index.html') {
         var websiteLd = {
-          '@context': 'https://schema.org', '@type': 'WebSite',
+          '@context': 'https://schema.org',
+          '@type': 'WebSite',
           name: siteTitle, url: siteUrl,
           description: 'Honest reviews of AI tools for solopreneurs.',
           publisher: { '@type': 'Organization', name: 'AITools' }
         };
         jsonLd = '<script type="application/ld+json">' + JSON.stringify(websiteLd) + '</script>';
-        injected++;
-      } else if (relPath === 'zh/index.html') {
-        var zhLd = {
-          '@context': 'https://schema.org', '@type': 'WebSite',
-          name: siteTitle + ' — 一人公司 AI 工具评测', url: siteUrl,
-          description: '独立创业者 AI 工具真实评测。',
-          publisher: { '@type': 'Organization', name: 'AITools' }
-        };
-        jsonLd = '<script type="application/ld+json">' + JSON.stringify(zhLd) + '</script>';
         injected++;
       }
 

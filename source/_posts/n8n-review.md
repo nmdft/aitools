@@ -69,6 +69,18 @@ Also great if you need AI-powered automations — the LLM integrations are bette
 
 Not recommended if you're non-technical and don't want to touch servers. In that case, Zapier or Make are easier to start with.
 
+## The Bottom Line
+
+n8n is the automation tool for people who think in systems. The learning curve is real, but once you get it, you'll automate things you didn't even know could be automated. For a solopreneur, that's a superpower.
+
+Self-hosted n8n on a $5/month VPS is the best value proposition in automation. Unlimited workflows, unlimited executions, complete data ownership. Nothing else comes close at that price point.
+
+**Rating: 9/10** — The automation backbone for technical solopreneurs. Self-hosted is a no-brainer.
+
+---
+
+*Get started with n8n at [n8n.io](https://n8n.io). Self-hosted is free; cloud plans start at $24/mo.*
+
 ## Alternatives
 
 - **Zapier:** Easier to start, better for non-technical users, but expensive at scale. $20/mo for 750 tasks is limiting.

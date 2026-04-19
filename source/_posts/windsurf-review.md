@@ -66,6 +66,18 @@ Also a good pick if you like the "agentic" workflow — describe what you want a
 
 Not recommended if you need the absolute best model quality (Cursor edges it out) or if you're deep in an existing Cursor workflow with no reason to switch.
 
+## The Bottom Line
+
+Windsurf is what happens when a company focuses on making AI coding accessible rather than premium. At $10/mo, it's half the price of Cursor and delivers maybe 80% of the experience. For a solopreneur watching every dollar, that math works out.
+
+The Cascade agentic mode is genuinely useful once you learn to trust it. The autocomplete isn't quite as sharp as Cursor's, and the model selection is more limited, but for the price? Hard to beat.
+
+**Rating: 7/10** — Best value in AI coding tools. Half the price of Cursor for most of the experience.
+
+---
+
+*Try Windsurf free at [windsurf.com](https://windsurf.com). The free tier is generous enough for real projects.*
+
 ## Alternatives
 
 - **Cursor:** Better model quality, more polished, but $20/mo. If budget isn't a concern, Cursor is still the premium choice.

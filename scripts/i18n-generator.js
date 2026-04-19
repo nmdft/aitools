@@ -25,16 +25,18 @@ hexo.extend.generator.register('en_index', function(locals) {
 // Chinese index (/zh/) — only Chinese posts
 hexo.extend.generator.register('zh_index', function(locals) {
   var posts = locals.posts.filter(function(p) { return p.lang === 'zh'; }).sort('-date');
-  return {
-    path: 'zh/index.html',
-    layout: ['index'],
-    data: {
-      posts: posts,
-      page: posts,
-      title: 'AITools — 一人公司 AI 工具评测',
-      __lang: 'zh'
-    }
-  };
+    return {
+      path: 'zh/index.html',
+      layout: ['index'],
+      data: {
+        posts: posts,
+        page: posts,
+        title: 'AITools — 一人公司 AI 工具评测',
+        subtitle: '独立创业者 AI 工具真实评测',
+        description: '一人公司 AI 工具真实评测。我们帮你测试，你不用浪费时间和钱。',
+        __lang: 'zh'
+      }
+    };
 });
 
 // Chinese post pages (/zh/slug/)

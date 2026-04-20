@@ -25,7 +25,7 @@ We don't do first-impression reviews. Every tool on this list was used for at le
 
 ## The Rankings
 
-### 1. Cursor — Best Overall
+### 1. [Cursor](/cursor-ai-review/) — Best Overall
 
 **Price:** Free tier / $20/mo Pro  
 **Rating: 8/10**
@@ -47,7 +47,7 @@ Cursor is the current king of AI coding tools. The autocomplete is the best we'v
 
 ---
 
-### 2. Windsurf — Best Value
+### 2. [Windsurf](/windsurf-review/) — Best Value
 
 **Price:** Free tier / $10/mo Pro  
 **Rating: 7/10**
@@ -69,7 +69,7 @@ Windsurf delivers about 80% of Cursor's experience at half the price. The Cascad
 
 ---
 
-### 3. Bolt.new — Best for Prototyping
+### 3. [Bolt.new](/bolt-new-review/) — Best for Prototyping
 
 **Price:** Free tier / $20/mo Pro  
 **Rating: 7/10**

@@ -9,7 +9,7 @@ description: "Cursor vs Windsurf — we tested both for weeks building real proj
 permalink: cursor-vs-windsurf/
 ---
 
-If you're a solopreneur building products, you've probably heard the hype around both Cursor and Windsurf. They're the two AI coding tools everyone's talking about. But which one should you actually use?
+If you're a solopreneur building products, you've probably heard the hype around both [Cursor](/cursor-ai-review/) and Windsurf. They're the two AI coding tools everyone's talking about. But which one should you actually use?
 
 <!-- more -->
 
@@ -23,7 +23,7 @@ But that's oversimplifying it. Let's get specific.
 
 ## What They Actually Are
 
-Both Cursor and Windsurf are AI-first code editors built on VS Code's foundation. They're not plugins you bolt onto VS Code — they're standalone editors with AI woven into every interaction.
+Both Cursor and [Windsurf](/windsurf-review/) are AI-first code editors built on VS Code's foundation. They're not plugins you bolt onto VS Code — they're standalone editors with AI woven into every interaction.
 
 The core idea is the same: you write code with an AI partner that understands your entire project, not just the file you're looking at. The execution is where they diverge.
 

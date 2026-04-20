@@ -7,7 +7,6 @@ categories:
   - AI Automation
 description: n8n is a fair-code automation platform that lets you connect apps and automate workflows. We self-hosted it and built real automations for a one-person business.
 keywords: [n8n, workflow automation, open source, self-hosted, Zapier alternative, no-code, solopreneur]
-lang: en
 permalink: n8n-review/
 ---
 

@@ -7,7 +7,6 @@ categories:
   - AI Coding
 description: Bolt.new lets you build full-stack web apps by chatting with AI. We tested it to see if it's actually viable for production projects.
 keywords: [Bolt.new, AI app builder, StackBlitz, web app, prototyping, no-code, MVP, solopreneur]
-lang: en
 permalink: bolt-new-review/
 ---
 

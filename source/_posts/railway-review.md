@@ -4,8 +4,8 @@ date: 2026-04-20 10:00:00
 categories:
   - Infrastructure
 description: "Railway is a modern PaaS that lets you deploy apps and databases with zero config — is it the best hosting choice for solo developers and small teams?"
-lang: en
-permalink: en/railway-review/
+banner_img: /images/site-banner.png
+index_img: /images/thumbnails/railway.png
 ---
 
 If you've ever spent an entire afternoon wrestling with AWS IAM policies, Nginx configs, or Docker Compose files just to get a simple web app online, you know the pain. Railway exists to kill that pain.

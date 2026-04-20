@@ -6,7 +6,6 @@ date: 2026-04-19 12:00:00
 categories:
   - AI Coding
 description: "Cursor vs Windsurf — we tested both for weeks building real projects. Here's an honest comparison of features, pricing, and which one is right for solopreneurs."
-lang: en
 permalink: cursor-vs-windsurf/
 ---
 

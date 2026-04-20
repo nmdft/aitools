@@ -6,7 +6,6 @@ date: 2026-04-19 14:00:00
 categories:
   - AI Coding
 description: "The definitive guide to AI coding tools for solopreneurs. We tested Cursor, Windsurf, Bolt.new, GitHub Copilot, and more. Here are the ones actually worth using."
-lang: en
 permalink: best-ai-coding-tools-2026/
 ---
 

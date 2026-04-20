@@ -7,7 +7,6 @@ categories:
   - AI Coding
 description: An honest review of Cursor AI editor for solopreneur developers. We tested it for two weeks building real projects.
 keywords: [Cursor AI, code editor, AI coding, VS Code, GitHub Copilot alternative, pair programming, solopreneur]
-lang: en
 permalink: cursor-ai-review/
 
 ---

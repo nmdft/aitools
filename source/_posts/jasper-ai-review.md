@@ -6,7 +6,6 @@ date: 2026-04-19 16:00:00
 categories:
   - AI Marketing
 description: "Jasper AI promises to put AI agents to work for your entire marketing operation. We tested it to see if it lives up to the hype — and who should actually pay for it."
-lang: en
 permalink: jasper-ai-review/
 ---
 

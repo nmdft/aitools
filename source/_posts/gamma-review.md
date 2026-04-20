@@ -6,7 +6,6 @@ date: 2026-04-19 10:00:00
 categories:
   - AI Content
 description: "Gamma.app turns your ideas into polished presentations, websites, and documents with AI. But is it actually good enough to replace your current workflow?"
-lang: en
 permalink: gamma-review/
 ---
 

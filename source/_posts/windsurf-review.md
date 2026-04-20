@@ -7,7 +7,6 @@ categories:
   - AI Coding
 description: Windsurf by Codeium offers deep AI integration at half the price of Cursor. We tested it for a week building a real project. Here's what happened.
 keywords: [Windsurf, Codeium, AI coding IDE, Cascade, Cursor alternative, agentic coding, solopreneur]
-lang: en
 permalink: windsurf-review/
 ---
 

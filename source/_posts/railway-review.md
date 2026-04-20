@@ -16,7 +16,7 @@ I've been using Railway for several months now, deploying everything from side-p
 
 <!-- more -->
 
-![Railway Homepage](/images/railway-homepage.png)
+![Railway Homepage](/images/railway-homepage.jpg)
 
 ## What Railway Actually Does
 
@@ -62,7 +62,7 @@ The per-second rates:
 
 For context, a modest Next.js app + Postgres on the Hobby plan typically costs around $5-10/month. That's cheaper than most VPS options, and you get auto-scaling, preview deploys, and a real dashboard instead of SSH-ing into a box.
 
-![Railway Pricing](/images/railway-pricing.png)
+![Railway Pricing](/images/railway-pricing.jpg)
 
 ## What I Like
 

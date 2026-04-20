@@ -19,7 +19,7 @@ Jasper positions itself as an AI agent workspace built specifically for marketin
 
 The platform has three core components. **Agents** are specialized AI workers that handle specific marketing tasks — think SEO content creation, ad copy generation, campaign briefs. **Content Pipelines** are automated workflows that take content from idea to publication. And **Jasper IQ** is the context engine where you feed in your brand guidelines, audience personas, style guides, and company knowledge so that every output sounds like *you*.
 
-![Jasper AI Homepage](/images/jasper-homepage.png)
+![Jasper AI Homepage](/images/jasper-homepage.jpg)
 
 ## The Good Stuff
 

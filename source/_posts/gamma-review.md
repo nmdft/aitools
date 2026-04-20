@@ -21,7 +21,7 @@ The pitch is simple: you bring the ideas, Gamma handles the design. No more wres
 
 What makes Gamma different from, say, Canva or Google Slides with AI bolted on? It's built AI-first from the ground up. The entire workflow follows a Generate → Shape → Share pattern that feels genuinely different from traditional design tools.
 
-![Gamma Homepage](/images/gamma-homepage.png)
+![Gamma Homepage](/images/gamma-homepage.jpg)
 
 ## How It Actually Works
 
@@ -51,7 +51,7 @@ Plus they have an API if you want to automate creation programmatically. For a s
 
 Here's where it gets interesting — and where you need to pay attention.
 
-![Gamma Pricing](/images/gamma-pricing.png)
+![Gamma Pricing](/images/gamma-pricing.jpg)
 
 Gamma offers four tiers:
 

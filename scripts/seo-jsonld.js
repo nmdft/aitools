@@ -51,6 +51,7 @@ hexo.extend.filter.register('after_generate', function() {
       if (postMap[normalizedRel] && postMap[normalizedRel].title) {
         var post = postMap[normalizedRel];
         var url = siteUrl + '/' + relPath.replace(/index\.html$/, '');
+        var imageUrl = post.index_img ? siteUrl + post.index_img : (post.banner_img ? siteUrl + post.banner_img : '');
         var articleLd = {
           '@context': 'https://schema.org',
           '@type': 'Review',
@@ -61,7 +62,8 @@ hexo.extend.filter.register('after_generate', function() {
           datePublished: post.date ? post.date.toISOString() : '',
           dateModified: post.updated ? post.updated.toISOString() : (post.date ? post.date.toISOString() : ''),
           url: url,
-          inLanguage: 'en'
+          inLanguage: 'en',
+          image: imageUrl || undefined
         };
 
         var content2 = post._content || '';
@@ -88,8 +90,13 @@ hexo.extend.filter.register('after_generate', function() {
           '@context': 'https://schema.org',
           '@type': 'WebSite',
           name: siteTitle, url: siteUrl,
-          description: 'Honest reviews of AI tools for solopreneurs.',
-          publisher: { '@type': 'Organization', name: 'AITools' }
+          description: 'Honest reviews of AI tools for solopreneurs. We test tools so you don\'t have to.',
+          publisher: { '@type': 'Organization', name: 'AITools', url: siteUrl },
+          potentialAction: {
+            '@type': 'SearchAction',
+            target: siteUrl + '/?s={search_term_string}',
+            'query-input': 'required name=search_term_string'
+          }
         };
         jsonLd = '<script type="application/ld+json">' + JSON.stringify(websiteLd) + '</script>';
         injected++;

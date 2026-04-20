@@ -37,6 +37,9 @@ navbar:
     - key: "About"
       link: "/about/"
       icon: "iconfont icon-info-circle-fill"
+    - key: "RSS"
+      link: "/atom.xml"
+      icon: "iconfont icon-rss-fill"
 
 # Index page
 index:
@@ -76,7 +79,9 @@ post:
       awl: 6
       wpm: 250
   updated:
-    enable: false
+    enable: true
+    date: true
+    label: "Updated"
   category_bar:
     enable: true
     specific: true
@@ -138,7 +143,7 @@ web_analytics:
 
 # Footer
 footer:
-  content: '&copy; 2026 <a href="/" target="_self"><b>AITools</b></a> — Honest AI Tool Reviews for Solopreneurs. Built with <a href="https://hexo.io" target="_blank" rel="nofollow noopener">Hexo</a> & <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener">Fluid</a>.'
+  content: '&copy; 2026 <a href="/" target="_self"><b>AITools</b></a> — Honest AI Tool Reviews for Solopreneurs. <a href="https://buttondown.com/aitools" target="_blank" rel="nofollow noopener">Subscribe</a>. Built with <a href="https://hexo.io" target="_blank" rel="nofollow noopener">Hexo</a> & <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank" rel="nofollow noopener">Fluid</a>.'
   statistics:
     enable: true
     source: umami

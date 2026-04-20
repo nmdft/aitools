@@ -1,6 +1,6 @@
 ---
 banner_img: /images/jasper-banner.png
-index_img: /images/jasper-banner.png
+index_img: /images/thumbnails/jasper.png
 title: "Jasper AI Review: The Enterprise Marketing Machine That's Not for Everyone"
 date: 2026-04-19 16:00:00
 categories:

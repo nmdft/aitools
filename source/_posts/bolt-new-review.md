@@ -1,6 +1,6 @@
 ---
 banner_img: /images/bolt-new-banner.png
-index_img: /images/bolt-new-banner.png
+index_img: /images/thumbnails/bolt-new.png
 title: "Bolt.new Review: Build Web Apps by Describing Them"
 date: 2026-04-17 10:00:00
 categories:

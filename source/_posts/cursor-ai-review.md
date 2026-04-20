@@ -1,6 +1,6 @@
 ---
 banner_img: /images/cursor-banner.png
-index_img: /images/cursor-banner.png
+index_img: /images/thumbnails/cursor.png
 title: "Cursor AI Review: Is It Worth Switching From VS Code?"
 date: 2026-04-15 10:00:00
 categories:

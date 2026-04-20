@@ -1,6 +1,6 @@
 ---
 banner_img: /images/n8n-banner.png
-index_img: /images/n8n-banner.png
+index_img: /images/thumbnails/n8n.png
 title: "n8n Review: Open-Source Automation That Actually Works"
 date: 2026-04-18 18:00:00
 categories:

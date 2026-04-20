@@ -1,6 +1,6 @@
 ---
 banner_img: /images/windsurf-banner.png
-index_img: /images/windsurf-banner.png
+index_img: /images/thumbnails/windsurf.png
 title: "Windsurf Review: The $10/mo Cursor Killer?"
 date: 2026-04-16 10:00:00
 categories:

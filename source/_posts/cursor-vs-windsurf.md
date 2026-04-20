@@ -1,6 +1,6 @@
 ---
 banner_img: /images/cursor-banner.png
-index_img: /images/cursor-banner.png
+index_img: /images/thumbnails/cursor-vs-windsurf.png
 title: "Cursor vs Windsurf: Which AI Coding Tool Should You Pick in 2026?"
 date: 2026-04-19 12:00:00
 categories:

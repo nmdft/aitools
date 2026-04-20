@@ -15,6 +15,8 @@ permalink: cursor-ai-review/
 
 **Quick Verdict:** Cursor is the best AI-native code editor right now, but it's not free and the learning curve is real.
 
+<!-- more -->
+
 🔗 Official site: [Cursor AI](https://cursor.com)
 
 ## What is Cursor?

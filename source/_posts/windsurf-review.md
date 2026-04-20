@@ -14,6 +14,8 @@ permalink: windsurf-review/
 
 **Quick Verdict:** Windsurf is the most cost-effective AI coding IDE right now. Half the price of Cursor, with some features that are actually better.
 
+<!-- more -->
+
 🔗 Official site: [Windsurf](https://windsurf.com)
 
 ![Windsurf Homepage](/images/windsurf-homepage.png)

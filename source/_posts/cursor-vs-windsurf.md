@@ -11,6 +11,8 @@ permalink: cursor-vs-windsurf/
 
 If you're a solopreneur building products, you've probably heard the hype around both Cursor and Windsurf. They're the two AI coding tools everyone's talking about. But which one should you actually use?
 
+<!-- more -->
+
 We've spent weeks with both — building real projects, not just running hello-world demos. Here's what we found.
 
 ## The Quick Answer

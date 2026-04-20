@@ -14,6 +14,8 @@ permalink: bolt-new-review/
 
 **Quick Verdict:** Bolt.new is the fastest way to go from idea to working prototype. Just don't expect production-ready code.
 
+<!-- more -->
+
 🔗 Official site: [Bolt.new](https://bolt.new)
 
 ![Bolt.new Homepage](/images/bolt-new-homepage.png)

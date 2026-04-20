@@ -11,6 +11,8 @@ permalink: gamma-review/
 
 I'll be honest — when I first heard about Gamma, I rolled my eyes. Another AI tool claiming to "revolutionize" content creation? Sure. But after spending real time with it, I have to admit: this thing is surprisingly capable.
 
+<!-- more -->
+
 ## What Is Gamma?
 
 Gamma is an AI-powered design platform that takes your raw ideas and turns them into finished visual content. We're talking presentations, documents, websites, social media posts, and standalone graphics — all generated from a text prompt or an imported outline.

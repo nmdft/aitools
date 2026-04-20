@@ -27,6 +27,7 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: ''
 skip_render:
+  - images/banner-generator.html
 
 # Writing
 new_post_name: :title.md

@@ -11,6 +11,8 @@ permalink: jasper-ai-review/
 
 If you've spent any time in the AI marketing space, you've heard of Jasper. The company that started as a simple "AI writer" has evolved into something much more ambitious — a full-blown agent platform for marketing teams. But ambition and execution are two different things, so I spent real time with Jasper to figure out where it actually delivers and where the marketing gloss outpaces the product.
 
+<!-- more -->
+
 ## What Is Jasper AI?
 
 Jasper positions itself as an AI agent workspace built specifically for marketing teams. The pitch is straightforward: 100+ purpose-built marketing agents, automated content pipelines, and a "knowledge layer" called Jasper IQ that keeps everything on-brand. It's not trying to be a general-purpose AI assistant — it's laser-focused on marketing workflows.

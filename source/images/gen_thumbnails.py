@@ -35,6 +35,7 @@ TOOLS = {
     'railway':          {'name': 'Railway',             'palette': 'infra',      'rating': 8.0},
     'cursor-vs-windsurf':{'name': 'Cursor vs Windsurf', 'palette': 'coding',     'roundup': True},
     'best-ai-coding-tools-2026': {'name': 'Best AI Coding\ntools 2026', 'palette': 'coding', 'roundup': True},
+    'grammarly-review':       {'name': 'Grammarly',            'palette': 'writing',  'rating': 7.5},
 }
 
 def get_font(size):

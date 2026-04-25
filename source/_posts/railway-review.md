@@ -16,7 +16,7 @@ I've been using Railway for several months now, deploying everything from side-p
 
 <!-- more -->
 
-![Railway Homepage](/images/railway-homepage.jpg)
+![Railway Homepage](/images/railway-homepage.png)
 
 ## What Railway Actually Does
 
@@ -62,7 +62,7 @@ The per-second rates:
 
 For context, a modest Next.js app + Postgres on the Hobby plan typically costs around $5-10/month. That's cheaper than most VPS options, and you get auto-scaling, preview deploys, and a real dashboard instead of SSH-ing into a box.
 
-![Railway Pricing](/images/railway-pricing.jpg)
+![Railway Pricing](/images/railway-pricing.png)
 
 ## What I Like
 
@@ -123,3 +123,7 @@ Railway is what Heroku should have become. It takes the "just works" philosophy 
 For a one-person company, the $5/month Hobby plan is hard to beat. You get a real platform with real features, not a stripped-down free tier designed to upsell you. The AI agent integrations are a nice bonus if you're already using coding assistants.
 
 It's not the cheapest option (a $5 Hetzner VPS gives you more raw resources), and it's not the most powerful (AWS can scale to infinity). But for the "I want to ship my product and not think about infrastructure" crowd — which is most of us — Railway is excellent.
+
+---
+
+**Rating: 8.5/10** — The best developer experience for full-stack deployments at this price point.

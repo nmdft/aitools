@@ -30,7 +30,7 @@ The key thing people miss: Grammarly isn't just the underlines. It's now a gener
 
 ## The Free Tier: Better Than You Think
 
-Here's something I genuinely didn't expect — Grammarly Free is still one of the best free tools on the internet. It catches real mistakes that matter. Not style nitpicks, actual errors: missing articles, subject-verb disagreement, comma splices.
+Here's something I didn't expect — Grammarly Free is still one of the best free tools on the internet. It catches real mistakes that matter. Not style nitpicks, actual errors: missing articles, subject-verb disagreement, comma splices.
 
 I tested it by writing a batch of deliberately flawed emails. Grammarly Free caught about 85% of real grammar and spelling errors. The remaining 15% were edge cases like split infinitives and Oxford comma disagreements that honestly don't matter for most people.
 
@@ -44,9 +44,9 @@ Premium costs $12/month when billed annually ($144/year) or $30/month if you go 
 
 Let me break down what Premium actually adds:
 
-**Full-sentence rewrites** are the headline feature. Click on a highlighted sentence, and Grammarly suggests alternative phrasings. Sometimes they're genuinely better. Often they're just... different. I'd estimate about 40% of rewrite suggestions actually improved my writing. The rest were neutral or made things worse by stripping out personality.
+**Full-sentence rewrites** are the headline feature. Click on a highlighted sentence, and Grammarly suggests alternative phrasings. Sometimes they're better. Often they're just... different. I'd estimate about 40% of rewrite suggestions actually improved my writing. The rest were neutral or made things worse by stripping out personality.
 
-**Tone detection** tells you how your writing sounds — formal, friendly, confident, concerned. It's interesting for about a week, then you stop checking it. If you already know how tone works, this is a novelty. If you're genuinely unsure whether your email sounds too aggressive, it's useful.
+**Tone detection** tells you how your writing sounds — formal, friendly, confident, concerned. It's interesting for about a week, then you stop checking it. If you already know how tone works, this is a novelty. If you're unsure whether your email sounds too aggressive, it's useful.
 
 **The plagiarism checker** works. I tested it against known sources, and it correctly identified copied passages down to 15+ word matches. If you're writing academic content or hiring freelancers who might plagiarize, this alone could justify the cost. For most solopreneurs? You probably don't need it.
 
@@ -97,7 +97,7 @@ One hidden cost: Grammarly charges per seat on Business plans. A three-person te
 
 ## Who Should Use Grammarly
 
-**Non-native English speakers** writing in English professionally. Grammarly Premium's fluency and clarity features will improve your writing noticeably, and the inline corrections teach you in real time. This is genuinely one of the best investments for ESL solopreneurs.
+**Non-native English speakers** writing in English professionally. Grammarly Premium's fluency and clarity features will improve your writing noticeably, and the inline corrections teach you in real time. This is one of the best investments for ESL solopreneurs.
 
 **Anyone who writes a high volume of emails.** If you send 15+ emails daily and accuracy matters (sales, consulting, client communication), Grammarly Free at minimum saves you from embarrassing typos. Premium catches the subtler mistakes that erode credibility.
 
@@ -113,11 +113,11 @@ One hidden cost: Grammarly charges per seat on Business plans. A three-person te
 
 ## The Verdict
 
-Grammarly is a utility player, not a star. It's the writing equivalent of a good spellchecker — you don't think about it much, but you'd notice if it disappeared. The free tier is genuinely excellent and enough for most solopreneurs. Premium is worth it if you're a non-native speaker, write massive volumes, or genuinely use the AI features daily. Otherwise, it's $144/year for marginally better suggestions than free.
+Grammarly is a utility player, not a star. It's the writing equivalent of a good spellchecker — you don't think about it much, but you'd notice if it disappeared. The free tier is excellent and enough for most solopreneurs. Premium is worth it if you're a non-native speaker, write massive volumes, or use the AI features daily. Otherwise, it's $144/year for marginally better suggestions than free.
 
 I actually went back to the free tier after my Premium trial ended, and honestly? I barely noticed the difference in my daily workflow. The red underlines catch the stuff that matters. Everything else is nice-to-have.
 
-**Ease of Use: 9/10** — It works everywhere, needs zero setup, and the inline corrections are genuinely seamless. One point off for occasional desktop app lag.
+**Ease of Use: 9/10** — It works everywhere, needs zero setup, and the inline corrections are seamless. One point off for occasional desktop app lag.
 
 **Value for Money: 6/10** — The free tier is a 9/10 value. Premium at $144/year is fair but not compelling unless you use every feature. Month-to-month at $30 is a bad deal.
 

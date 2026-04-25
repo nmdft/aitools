@@ -17,6 +17,8 @@ I've been using Grammarly Free for years and Grammarly Premium for the past thre
 
 ## What Grammarly Actually Does
 
+![Grammarly Homepage](/images/grammarly-homepage.png)
+
 At its core, Grammarly is a writing checker. It catches spelling errors, grammar mistakes, and punctuation problems in real time as you type — in Gmail, Google Docs, Slack, and basically anywhere you write in a browser. The desktop app also works in native macOS and Windows apps.
 
 That's the free tier. The paid tiers add AI-powered rewriting, tone detection, full-sentence rewrites, plagiarism checking, and what Grammarly calls "AI agents" that can draft content from prompts.

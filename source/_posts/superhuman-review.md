@@ -17,6 +17,8 @@ I used Superhuman as my primary email client for two weeks. Here's what happened
 
 ## What Superhuman Actually Is
 
+![Superhuman Homepage](/images/superhuman-homepage.png)
+
 Superhuman is a desktop and mobile email client that sits on top of your existing Gmail or Outlook account. It doesn't replace your email — it wraps it in a much faster, more opinionated interface. Think of it as the difference between driving a stock Honda Civic and a track-tuned one. Same engine underneath, completely different experience at the wheel.
 
 The core bet Superhuman makes is that your bottleneck with email isn't the email itself — it's the interface. Every action has a keyboard shortcut. Every reply gets AI assistance. Every meeting request auto-schedules. The app feels like it was built by people who hate the 0.3-second lag in Gmail's web interface.

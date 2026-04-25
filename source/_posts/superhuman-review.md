@@ -11,7 +11,7 @@ permalink: superhuman-review/
 
 You check your inbox. 47 unread. A cold outreach that's somehow both desperate and generic. A newsletter you subscribed to during a 2am research binge. Two legitimate client emails buried under the noise. You start triaging, and 45 minutes later you've "managed" your email but haven't actually done any real work.
 
-This is the problem Superhuman claims to solve — not just organizing your inbox, but making you genuinely fast at processing email. The pitch is seductive: keyboard shortcuts for everything, AI-drafted replies, a split inbox that separates signal from noise. The price? $30 a month. For email. The thing that's been free since Gmail launched in 2004.
+This is the problem Superhuman claims to solve — not just organizing your inbox, but making you fast at processing email. The pitch is seductive: keyboard shortcuts for everything, AI-drafted replies, a split inbox that separates signal from noise. The price? $30 a month. For email. The thing that's been free since Gmail launched in 2004.
 
 I used Superhuman as my primary email client for two weeks. Here's what happened.
 
@@ -19,7 +19,7 @@ I used Superhuman as my primary email client for two weeks. Here's what happened
 
 Superhuman is a desktop and mobile email client that sits on top of your existing Gmail or Outlook account. It doesn't replace your email — it wraps it in a much faster, more opinionated interface. Think of it as the difference between driving a stock Honda Civic and a track-tuned one. Same engine underneath, completely different experience at the wheel.
 
-The core bet Superhuman makes is that your bottleneck with email isn't the email itself — it's the interface. Every action has a keyboard shortcut. Every reply gets AI assistance. Every meeting request auto-schedules. The app feels like it was built by people who genuinely hate the 0.3-second lag in Gmail's web interface.
+The core bet Superhuman makes is that your bottleneck with email isn't the email itself — it's the interface. Every action has a keyboard shortcut. Every reply gets AI assistance. Every meeting request auto-schedules. The app feels like it was built by people who hate the 0.3-second lag in Gmail's web interface.
 
 They've raised over $100 million in funding and claim to have tens of thousands of paying users. That's a lot of people who decided their free Gmail wasn't good enough.
 
@@ -47,7 +47,7 @@ I actually turned off most of my Gmail filters after switching because the split
 
 Superhuman's AI writes drafts based on the email thread context. You hit `Cmd+J`, and it generates a reply in your tone. You can then edit and send.
 
-The drafts are... fine. For simple replies — confirming a meeting, saying yes to a request, acknowledging receipt — they're genuinely useful. I'd say 70% of the time, the AI draft needed only minor edits before sending. That's a real time saver when you're processing 20+ emails a day.
+The drafts are... fine. For simple replies — confirming a meeting, saying yes to a request, acknowledging receipt — they're useful. I'd say 70% of the time, the AI draft needed only minor edits before sending. That's a real time saver when you're processing 20+ emails a day.
 
 But for anything nuanced — negotiating scope, giving critical feedback, explaining a complex situation — the AI drafts read like a polite robot wrote them. They're safe and generic in exactly the way that makes clients think you're not paying attention. I'd spend more time rewriting these drafts than I would have spent writing from scratch.
 
@@ -59,7 +59,7 @@ The auto-summarize feature for long threads is more consistently useful. When yo
 
 Superhuman has built-in meeting scheduling. When someone proposes a meeting time, Superhuman detects it and offers one-click scheduling that connects to your calendar. No Calendly link needed. This works well for simple 1:1 meetings but falls apart for group scheduling.
 
-The read status feature — seeing when someone opened your email — is controversial and useful in equal measure. As a solopreneur following up with potential clients, knowing they opened my proposal email three times but haven't replied is genuinely valuable intelligence. But it also feeds the anxiety loop of watching and waiting. Superhuman lets you disable it if you'd rather not know.
+The read status feature — seeing when someone opened your email — is controversial and useful in equal measure. As a solopreneur following up with potential clients, knowing they opened my proposal email three times but haven't replied is valuable intelligence. But it also feeds the anxiety loop of watching and waiting. Superhuman lets you disable it if you'd rather not know.
 
 ## The Pricing Question
 
@@ -78,7 +78,7 @@ Is it worth it? That depends entirely on how much email is your bottleneck. If y
 
 ## What Annoyed Me
 
-A few things genuinely frustrated me during the two weeks:
+A few things frustrated me during the two weeks:
 
 **No unified inbox for multiple accounts.** I have a personal Gmail and a work Google Workspace account. Superhuman handles them, but you switch between accounts rather than seeing everything in one view. For $30/month, a unified inbox should be table stakes.
 
@@ -105,7 +105,7 @@ A few things genuinely frustrated me during the two weeks:
 
 ## The Verdict
 
-Superhuman is a genuinely excellent product that solves a real problem for a specific type of user. The speed is not marketing hype — it's measurably, noticeably faster than anything else. The keyboard shortcuts and split inbox make email processing feel effortless in a way I didn't expect.
+Superhuman is an excellent product that solves a real problem for a specific type of user. The speed is not marketing hype — it's measurably, noticeably faster than anything else. The keyboard shortcuts and split inbox make email processing feel effortless in a way I didn't expect.
 
 But the AI features are uneven, the mobile experience is second-class, and $30/month is a steep ask when free alternatives exist. It's the luxury sedan of email clients: beautiful, fast, and undeniably expensive.
 

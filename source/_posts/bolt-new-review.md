@@ -1,6 +1,7 @@
 ---
-banner_img: /images/bolt-new-banner.png
-index_img: /images/thumbnails/bolt-new.png
+banner_img: https://picsum.photos/seed/8492/1200/630
+# banner_img: /images/bolt-new-banner.png
+index_img: https://picsum.photos/seed/8492_thumb/600/400
 title: "Bolt.new Review: Build Web Apps by Describing Them"
 date: 2026-04-17 10:00:00
 categories:

@@ -43,7 +43,7 @@ navbar:
 
 # Index page
 index:
-  banner_img: /images/site-banner.png
+  banner_img: https://picsum.photos/seed/aitools-home/1920/1080
   banner_img_height: 55
   banner_mask_alpha: 0.3
   slogan:
@@ -62,7 +62,7 @@ index:
 
 # Post page
 post:
-  banner_img: /images/site-banner.png
+  banner_img: https://picsum.photos/seed/aitools-home/1920/1080
   banner_img_height: 45
   banner_mask_alpha: 0.25
   default_index_img: /images/site-banner.png
@@ -100,7 +100,7 @@ post:
 # Category page
 category:
   enable: true
-  banner_img: /images/site-banner.png
+  banner_img: https://picsum.photos/seed/aitools-home/1920/1080
   banner_img_height: 50
   banner_mask_alpha: 0.3
   order_by: "-length"

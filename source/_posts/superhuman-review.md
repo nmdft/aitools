@@ -4,8 +4,9 @@ date: 2026-04-22 10:00:00
 categories:
   - AI Communication
 description: "Superhuman is the fastest email client ever made — and at $30/month, the most expensive one too. We spent two weeks with it to find out if the speed and AI features justify the price for solopreneurs."
-banner_img: /images/superhuman-banner.png
-index_img: /images/thumbnails/superhuman-review.png
+banner_img: https://picsum.photos/seed/4210/1200/630
+# banner_img: /images/superhuman-banner.png
+index_img: https://picsum.photos/seed/4210_thumb/600/400
 permalink: superhuman-review/
 ---
 

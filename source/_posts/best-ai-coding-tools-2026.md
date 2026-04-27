@@ -1,6 +1,7 @@
 ---
-banner_img: /images/site-banner.png
-index_img: /images/thumbnails/ai-tools-list.png
+banner_img: https://picsum.photos/seed/4797/1200/630
+# banner_img: /images/site-banner.png
+index_img: https://picsum.photos/seed/4797_thumb/600/400
 title: "Best AI Coding Tools for Solopreneurs in 2026 (We Tested Them All)"
 date: 2026-04-19 14:00:00
 categories:

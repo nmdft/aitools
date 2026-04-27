@@ -1,6 +1,7 @@
 ---
-banner_img: /images/gamma-banner.png
-index_img: /images/thumbnails/gamma.png
+banner_img: https://picsum.photos/seed/6046/1200/630
+# banner_img: /images/gamma-banner.png
+index_img: https://picsum.photos/seed/6046_thumb/600/400
 title: "Gamma Review: The AI Design Tool That Wants to Kill PowerPoint"
 date: 2026-04-19 10:00:00
 categories:

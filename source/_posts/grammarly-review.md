@@ -1,6 +1,7 @@
 ---
-banner_img: /images/grammarly-banner.png
-index_img: /images/thumbnails/grammarly-review.png
+banner_img: https://picsum.photos/seed/6087/1200/630
+# banner_img: /images/grammarly-banner.png
+index_img: https://picsum.photos/seed/6087_thumb/600/400
 title: "Grammarly Review: The Writing Assistant Everyone Uses But Nobody Loves"
 date: 2026-04-21 10:00:00
 categories:
